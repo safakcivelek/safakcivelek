@@ -1,6 +1,5 @@
 ## 💫 Hakkımda:
 Merhaba, ben Şafak, .NET ve React teknolojileri alanında bilgi ve deneyim kazanmaya odaklanmış bir Full-Stack Geliştiriciyim.
-
 Bilge Adam Akademisi'nde .NET üzerine aldığım eğitimle yazılım geliştirme bilgimi derinleştirdim ve bu alandaki temel becerilerimi güçlendirdim. 
 Ardından, İstanbul Kodluyor Projesi'nde Engin Demiroğ'un rehberliğinde yürütülen projeler aracılığıyla, temiz kod prensipleri ve kurumsal mimariler konusunda değerli deneyimler edindim.
 Takım çalışmasının önemini benimseyerek ve takım uyumuna büyük değer vererek, teknoloji sektöründe kendimi sürekli geliştirmekteyim. Yenilikçi projelere aktif olarak katılmayı ve teknoloji dünyasına anlamlı katkılarda bulunmayı hedefliyorum.
