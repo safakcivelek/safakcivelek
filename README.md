@@ -12,7 +12,7 @@ Takım çalışmasının önemini benimseyerek ve takım uyumuna büyük değer 
 ## 💻 Teknolojiler:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,react,redux,cs,ts,js,bootstrap,html,css,sass,git,postman" />
+    <img src="https://skillicons.dev/icons?i=dotnet,react,cs,ts,js,bootstrap,html,css,sass,git,postman" />
   </a>
 
    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
